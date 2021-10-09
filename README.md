@@ -12,4 +12,4 @@ The creater is called [Arthur Ottoni (ArthurHydr)](https://github.com/arthurhydr
 
 ## License
 
-[MIT License](./LICENSE)
+[GNU License](./LICENSE)

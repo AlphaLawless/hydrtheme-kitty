@@ -10,6 +10,17 @@ This theme was inspired by the Hydr Theme that was first created for [VSCODE](ht
 
 The creater is called [Arthur Ottoni (ArthurHydr)](https://github.com/arthurhydr/), and I thank him for letting me redesign the theme for kitty terminal.
 
+## Install
+
+In terminal copy
+```sh
+git clone https://github.com/alphalawless/hydrtheme-kitty
+cd hydrtheme-kitty
+mv ~/.config/kitty ~/.config/kitty.bkp
+mkdir ~/.config/kitty/
+mv *.conf ~/.conf/kitty/
+```
+
 ## License
 
 [GNU License](./LICENSE)

@@ -12,7 +12,7 @@ The creater is called [Arthur Ottoni (ArthurHydr)](https://github.com/arthurhydr
 
 ## Install
 
-In terminal copy
+In terminal copy and paste the following steps:
 ```sh
 git clone https://github.com/alphalawless/hydrtheme-kitty
 cd hydrtheme-kitty
